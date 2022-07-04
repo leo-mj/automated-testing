@@ -17,7 +17,5 @@ function findShortestString(stringArr) {
   return shortestString.length;
 }
 
-
-
 // export function so it can be used in test file
 module.exports = findShortestString;
