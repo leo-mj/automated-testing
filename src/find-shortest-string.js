@@ -14,7 +14,7 @@ function findShortestString(stringArr) {
       shortestString = str;
     }
   }
-  return shortestString.length; // should fail in this line 
+  return shortestString;
 }
 
 // export function so it can be used in test file
